@@ -4,6 +4,12 @@ Dieses Verzeichnis enthält unterschiedliche Scripte, die den Build-Prozess vere
 
 Die Scripte wurde für das Frankfurter Freifunk-Netz ffm erstellt, lassen sich aber eventuell auch für andere Freifunk-Netze verwenden.
 
+
+## clean-build.sh
+
+Das Script führt die für ein Build notwendigen Schritte aus.
+
+
 ## tag-the-next-release.sh
 
 Dieses Script legt ein Tag mit der nächsten Versionsnummer an.
