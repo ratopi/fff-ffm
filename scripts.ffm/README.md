@@ -1,8 +1,8 @@
 # scripts.ffm
 
-Dieses Verzeichnis enthält unterschiedliche Scripte, die den Build-Prozess vereinfachen und unterstützen sollen.
+Dieses Verzeichnis enthält Scripte, die den Build-Prozess vereinfachen und unterstützen sollen.
 
-Die Scripte wurde für das Frankfurter Freifunk-Netz ffm erstellt, lassen sich aber eventuell auch für andere Freifunk-Netze verwenden.
+Die Scripte wurden für das Frankfurter Freifunk-Netz erstellt, lassen sich aber eventuell auch für andere Freifunk-Netze verwenden.
 
 
 ## clean-build.sh
