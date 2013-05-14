@@ -5,9 +5,16 @@ Dieses Verzeichnis enthält Scripte, die den Build-Prozess vereinfachen und unte
 Die Scripte wurden für das Frankfurter Freifunk-Netz erstellt, lassen sich aber eventuell auch für andere Freifunk-Netze verwenden.
 
 
-## clean-build.sh
+## build.sh
 
-Das Script führt die für ein Build notwendigen Schritte aus.
+Das Script führt die für einen Build notwendigen Schritte aus.
+
+
+## get-newest-release-tag.sh
+
+Gibt das neueste Tag aus.
+
+Dieses Script soll in Zukunft vom Jenkins-Build-Job aufgerufen werden um automagisch das neueste Tag zu bauen.
 
 
 ## tag-the-next-release.sh
