@@ -35,7 +35,7 @@ Danach steht im neuen Tag, die getaggte Version zur Verfügung und kann mit
 
 ausgecheckt werden.
 
-Der master enthält immer eine SNAPSHOT-Version mit der vorraussichtlichen nächsten Versionsnummer als Basis.
+Der master enthält immer eine SNAPSHOT-Version mit der vorraussichtlichen nächsten Versionsnummer als Basis und dem Anhang "-SNAPSHOT".
 
 **Achtung!!!** Das Script führt momentan **kein** Git-Push aus.  Der Befehl
 
