@@ -1,3 +1,5 @@
+*Hinweis: Momentan haben wir noch Probleme beim Build. Daher empfehlen wir noch nicht diese Firmware einzusetzen.*
+
 # Firmware von Freifunk Frankfurt am Main
 
 Dieses Repository enthält die Freifunk-Firmware, so wie sie im Freifunk-Netz in Frankfurt am Main (Ffm) verwendet wird.
@@ -26,7 +28,7 @@ Es fragt die gewünschten Versionsnummer ab und kümmert sich um den Rest.
 
 ## Repository-Struktur
 
-Wir verwenden momentan nur einen Branch ("master"), welche aus dem KBU branch "0.3-generic" hervorgegangen ist.
+Wir verwenden momentan nur einen Branch ("master"), welcher aus dem KBU branch "0.3-generic" hervorgegangen ist.
 
 
 ## Build
